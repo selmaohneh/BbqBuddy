@@ -1,15 +1,17 @@
 # BbqBuddy
 ### Never Forget a BBQ!
 
-![](./01.png)
-![](./02.png)
-![](./03.png)
-![](./04.png)
-![](./05.png)
+<p align="center">
+  <img src="./01.png" alt="Screenshot 1" width="150"/>
+  <img src="./02.png" alt="Screenshot 2" width="150"/>
+  <img src="./03.png" alt="Screenshot 3" width="150"/>
+  <img src="./04.png" alt="Screenshot 4" width="150"/>
+  <img src="./05.png" alt="Screenshot 5" width="150"/>
+</p>
 
 Are you a BBQ Nerd? Then BBQ Buddy is the perfect app for you!
 
-Install via Google Play: https://play.google.com/store/apps/details?id=com.lily624org.bbqbuddy
+Install via Google Play: https://play.google.com/store/apps/details?id=com.lily624org.bbqbuddy  
 Install via App Store: https://apps.apple.com/de/app/bbq-buddy/id6747058992
 
 Easily track every grill session and capture all the essential details that matter to true BBQ enthusiasts.
@@ -24,5 +26,5 @@ And that’s just the beginning! BBQ Buddy helps you become a true BBQ master by
 
 Fire up your grill and let BBQ Buddy be your trusty sidekick on every BBQ adventure!
 
-Install via Google Play: https://play.google.com/store/apps/details?id=com.lily624org.bbqbuddy
+Install via Google Play: https://play.google.com/store/apps/details?id=com.lily624org.bbqbuddy  
 Install via App Store: https://apps.apple.com/de/app/bbq-buddy/id6747058992
